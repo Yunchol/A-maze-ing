@@ -1,4 +1,18 @@
-了解。
+1. cell.py
+2. generator.py（枠だけ）
+3. generator.py（道を掘る）
+4. renderer.py
+5. solver.py
+6. generator.py（PERFECT）
+7. exporter.py
+8. a_maze_ing.py
+
+おすすめ動画
+https://youtube.com/shorts/H1nQV9V27cs?si=ZffTC22O2CPK8q7B
+
+
+
+
 **「最小だけど評価で安全」な構成**で説明するね。
 まず全体、そのあと **1ファイルずつ役割**を話す。
 
