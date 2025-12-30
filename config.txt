@@ -1,0 +1,11 @@
+# ===== Maze Configuration =====
+
+WIDTH=10
+HEIGHT=6
+
+# Entry and Exit positions (x,y)
+ENTRY=0,0
+EXIT=9,5
+
+# Random seed (optional)
+SEED=41
